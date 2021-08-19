@@ -12,12 +12,12 @@
 - açucar
 - margarina
 
-# Modo de Preparo
+## Modo de Preparo
 
 Junta todos os ingredientes e mexe.
 
 - [ ] feito
-- [ ] não feito
+- [ ] não feit
 
 
 
